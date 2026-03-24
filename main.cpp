@@ -1,3 +1,4 @@
+//a little project to pass time
 #include <iomanip>
 #include <iostream>
 #include <GLFW/glfw3.h>
